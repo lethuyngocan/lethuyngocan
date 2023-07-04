@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I’m @Ann and Welcome to my Github Profile
+* Currently, I am pursuing PhD program in the field of Management of Technology .
+* I am data professional with a strong focus in Data Collection and Consolidation, Data Assessment and Processing, Data Modelling, Data Analysis and Visualization and  Insights Communication.
+* I am deeply passionate about using technology and data to solve intricate problems and thrive on assisting businesses in extracting valuable insights from their data.
 
-<!--
-**lethuyngocan/lethuyngocan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛠️Tools:
+* Python: NumPy, Pandas, Matplotlib, Seaborn
+* Database: Google BigQuery,  MySQL, MS Excel
+* Business Intelligence: Tableau
+* Machine Learning
+* NLP
 
-Here are some ideas to get you started:
+# 🌌 Project:
+Click HERE to check my projects and study documents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👐 Connect with me:
+Link linkedin
