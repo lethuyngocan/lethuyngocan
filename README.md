@@ -11,7 +11,7 @@
 * NLP
 
 # 🌌 Project:
-Click HERE to check my projects and study documents
+Click [HERE](https://github.com/lethuyngocan/Project-Porfolio) to check my projects and study documents
 
 # 🎓 Certificate:
 * [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/VVUJ8NRR62JU). [Issuse by Google](https://en.wikipedia.org/wiki/Google)
