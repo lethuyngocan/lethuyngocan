@@ -14,12 +14,12 @@
 Click HERE to check my projects and study documents
 
 # 🎓 Certificate:
-* [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/VVUJ8NRR62JU). Issue by [Google](https://en.wikipedia.org/wiki/Google)
-* [Artificial Intelligence on Microsoft Azure]<https://www.coursera.org/account/accomplishments/verify/CNTM9RMQ78TG>. Issue by [Microsoft](https://azure.microsoft.com/ja-jp/)
-* [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/55AKGELQK6VC). Issue by[University of California, David](https://www.ucdavis.edu/)
-* [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/verify/NFEXQS6GHFCG).Issuse by [Imperial College London](https://www.imperial.ac.uk/)
-* [Understanding and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/8YPFNWTR6GQ9). Issue by[Michigan University](https://umich.edu/)
-* [Big Data Fundamentals with PySpark](https://drive.google.com/drive/folders/1akt0p14RcXhrdtP0YkM4PtgsAb5BKVyS).Issue by[Datacamp]
+* [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/VVUJ8NRR62JU). [Issuse by Google](https://en.wikipedia.org/wiki/Google)
+* [Artificial Intelligence on Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/CNTM9RMQ78TG). [Issue by Microsoft](https://azure.microsoft.com/ja-jp/)
+* [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/55AKGELQK6VC). [Issue by University of California, David](https://www.ucdavis.edu/)
+* [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/verify/NFEXQS6GHFCG).[Issue by Imperial College London](https://www.imperial.ac.uk/)
+* [Understanding and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/verify/8YPFNWTR6GQ9). [Issue by Michigan University](https://umich.edu/)
+* [Big Data Fundamentals with PySpark](https://drive.google.com/drive/folders/1akt0p14RcXhrdtP0YkM4PtgsAb5BKVyS).[Issue by Datacamp](https://www.datacamp.com/)
 
 # 👐 Connect with me:
 Link linkedin
