@@ -11,7 +11,7 @@
 * NLP
 
 # 🌌 Projects:
-<p align="center">Click [HERE](https://github.com/lethuyngocan/Project-Porfolio) to check my projects</p>
+<p align="center"> Click [HERE](https://github.com/lethuyngocan/Project-Porfolio) to check my projects</p>
 
 ![IMG_1366](https://github.com/lethuyngocan/lethuyngocan/assets/94544459/5a4224ba-8530-48da-93b9-8bbc7b6db734)
 
