@@ -13,7 +13,6 @@
 # 🌌 Projects:
 ## Click [HERE](https://github.com/lethuyngocan/Project-Porfolio) to check my projects
 
-![IMG_1366](https://github.com/lethuyngocan/lethuyngocan/assets/94544459/5a4224ba-8530-48da-93b9-8bbc7b6db734)
 
 # 🎓 Certificate:
 * [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/VVUJ8NRR62JU). [Issuse by Google](https://en.wikipedia.org/wiki/Google)
