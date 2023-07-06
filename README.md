@@ -22,4 +22,6 @@ Click [HERE](https://github.com/lethuyngocan/Project-Porfolio) to check my proje
 * [Big Data Fundamentals with PySpark](https://drive.google.com/drive/folders/1akt0p14RcXhrdtP0YkM4PtgsAb5BKVyS).[Issue by Datacamp](https://www.datacamp.com/)
 
 # 👐 Connect with me:
-Link linkedin
+📲 Threads:lengocthuyan
+📧 Emails: kumagawaan@gmail.com
+
